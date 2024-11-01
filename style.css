@@ -1,0 +1,55 @@
+table{
+    margin: auto;
+    background-color: orange;
+    border: 1px solid red;
+}
+
+caption{
+    font-size: 25px;
+    
+}
+
+p{
+    font-size:15px;
+}
+
+footer{
+    background-color: orange;
+}
+
+td{
+    border: 1px solid red;
+}
+header{
+    background-color: red;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+nav a{
+    padding: 5px;
+    background-color: orange;
+    margin: 30px;
+    border-radius: 30px;
+    color: black;
+}
+
+caption{
+    background-color: red;
+    border: 1px solid #000000;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+.icons{
+    text-align: right;
+}
